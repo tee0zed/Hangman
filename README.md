@@ -3,8 +3,8 @@ Implementation of word game "hangman" with Ruby programming language.
 
 ### Rules 
 
-[YOuTube](https://www.youtube.com/watch?v=cGOeiQfjYPk)
-[Wiki](https://en.wikipedia.org/wiki/Hangman_(game))
+- [YouTube](https://www.youtube.com/watch?v=cGOeiQfjYPk)
+- [Wiki](https://en.wikipedia.org/wiki/Hangman_(game))
 
 ## Requirements 
 - ruby 2.6.5 
