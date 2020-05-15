@@ -12,8 +12,8 @@ Implementation of word game "hangman" with Ruby programming language.
 
 ## How to use 
 
-`bundle install`
-`ruby main.rb`
+- `bundle install`
+- `ruby main.rb`
 
 ### Adding own words
 
